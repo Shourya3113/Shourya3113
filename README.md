@@ -1,6 +1,6 @@
 # Hi there, I'm Shourya Solanki! 👋 (GitHub: Shourya3113)
 
-I am a 3rd-year **B.Tech Computer Science and Engineering** student specializing in **Artificial Intelligence & Machine Learning**. I focus on building intelligent systems, clean user experiences, and software that solves real-world problems.
+I am a Final Year **B.Tech Computer Science and Engineering** student specializing in **Artificial Intelligence & Machine Learning**. I focus on building intelligent systems, clean user experiences, and software that solves real-world problems.
 
 - 🚀 Currently focusing on: Edge-deployable Reinforcement Learning (RL), Digital Twins, and Full-Stack APIs.
 - 🎨 I enjoy combining product design with technical depth to create intuitive interfaces.
