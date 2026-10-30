@@ -2,7 +2,8 @@
 
 I am a Final Year **B.Tech Computer Science and Engineering** student specializing in **Artificial Intelligence & Machine Learning**. I focus on building intelligent systems, clean user experiences, and software that solves real-world problems.
 
-- 🚀 Currently focusing on: Edge-deployable Reinforcement Learning (RL), Digital Twins, and Full-Stack APIs.
+- 🚀 Currently building: **[Vedara](https://github.com/getvedara/vedara)**, private AI coding for teams whose code can't leave the building.
+- 🔬 Also focusing on: Edge-deployable Reinforcement Learning (RL), Digital Twins, and Full-Stack APIs.
 - 🎨 I enjoy combining product design with technical depth to create intuitive interfaces.
 - 📬 Reach me at: [shourya3113.solanki@gmail.com](mailto:shourya3113.solanki@gmail.com)
 
@@ -19,6 +20,8 @@ I am a Final Year **B.Tech Computer Science and Engineering** student specializi
 
 ## 📁 Highlighted Projects
 
+*   🔒 **[Vedara](https://github.com/getvedara/vedara)**: Private AI coding assistant for VS Code. Tab completion, chat and reviewable edits from local or self-hosted open models (Ollama, vLLM, llama.cpp), with an admin policy that blocks every outside host. Used by 10 developers.
+*   📺 **[SubShelf](https://github.com/Shourya3113/SubShelf)**: Chrome extension that sorts YouTube subscriptions into folders using on-device AI. 226 active users and 5.0★ from 29 reviews on the [Chrome Web Store](https://chromewebstore.google.com/detail/elmeglemgjhfadeahmlbcgkjkfkfkfgd).
 *   📡 **[5G MRO Pipeline (Altiostar Tokyo MRO)](https://github.com/Life-Atlas/altiostar-tokyo-mro)**: Reinforcement Learning (PPO) system for optimizing cell handovers, featuring dynamic Gymnasium environments, MLflow tracking, and deterministic ONNX exports.
 *   ✍️ **[Handwriting Emotion & Mental Health Detector](https://github.com/Shourya3113/AI-Handwriting-Emotion)**: Multimodal model combining computer vision handwriting style extraction (OpenCV) with text sentiment analysis (EasyOCR + DistilBERT).
 *   🎓 **[Happiness Passport (HaPa)](https://github.com/Shourya3113/happiness-passport)**: Full-stack student growth tracking app built with React, Tailwind, and a Flask/PostgreSQL API.
