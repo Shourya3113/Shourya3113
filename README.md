@@ -2,7 +2,7 @@
 
 I am a Final Year **B.Tech Computer Science and Engineering** student specializing in **Artificial Intelligence & Machine Learning**. I focus on building intelligent systems, clean user experiences, and software that solves real-world problems.
 
-- 🚀 Currently building: **[Vedara](https://github.com/getvedara/vedara)**, private AI coding for teams whose code can't leave the building.
+- 🚀 Currently building: **[Vedara](https://github.com/getvedara/vedara)**, private AI coding for code that can't leave the building.
 - 🔬 Also focusing on: Edge-deployable Reinforcement Learning (RL), Digital Twins, and Full-Stack APIs.
 - 🎨 I enjoy combining product design with technical depth to create intuitive interfaces.
 - 📬 Reach me at: [shourya3113.solanki@gmail.com](mailto:shourya3113.solanki@gmail.com)
